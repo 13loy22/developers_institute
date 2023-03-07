@@ -1,0 +1,51 @@
+/*Selector {
+	Property: value;
+
+}*/	 
+
+ 
+ body { background-image: url(webimage.jfif
+ );
+ background-size:cover; font-family: 'Indie Flower', cursive;
+
+
+
+}
+
+.main_header {font-size: 22px,
+;}
+
+.main {font-size: 15px}
+
+.main_footer {font-size: 15px; font-weight: bold;}
+
+li { list-style: none; }
+
+a { color: 923158; }
+
+p { text-align: center; text-shadow: 718EA4 }
+ 	  
+
+h1 { color:black;
+
+	text-align: center;
+	
+	}
+
+	.boxmodel { border: 5px solid black; 
+		display: inline-block;
+		 text-align: left; 
+		 padding: 0px 5px 0px
+		 5px; float: right;}
+		 div {
+    background-color: pink; 
+    width:100px; position: right
+
+}
+
+.boxmodeling { visibility: hidden; float: }
+
+span { font-size: 2em }
+
+.element {font-family: 'Indie Flower', cursive }
+ 
