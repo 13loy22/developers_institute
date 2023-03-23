@@ -1,0 +1,16 @@
+/* Selector { Property: value; }
+*/
+
+.start{ border: 1px solid black; padding: 30px; background-color: yellow; width: 5px;}
+
+.center{ border: 1px solid black; padding: 30px; background-color: yellow; width: 5px; }
+
+.end{ border: 1px solid black; padding: 30px; background-color: yellow; width: 5px;}
+
+
+.box {display: flex; justify-content: space-between;}
+
+
+.container2 { display: flex; flex-direction: row; padding: 80px; justify-content: space space-between;}
+
+.center {display: flex, 

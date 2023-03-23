@@ -1,0 +1,44 @@
+/* Selector { Property; value:
+; } */
+
+.flexcon { padding: 22px;
+margin:0;
+list-style: none;
+display: flex }
+
+.one { padding: 7px;
+width: 23%;
+height: 150px;
+background: lightblue;
+margin-top: 12px;
+line-height: 130px;
+color: white;
+font-weight: bold;
+font-size: 3em;
+text-align: center; }
+
+
+
+.two { padding: 7px;
+width: 39%;
+height: 150px;
+background:blue;
+margin-top: 12px;
+line-height: 130px;
+color: white;
+font-weight: bold;
+font-size: 3em;
+text-align: center; }
+
+
+.three { padding: 7px;
+width: 50%;
+height: 150px;
+background:red;
+margin-top: 12px;
+line-height: 130px;
+color: white;
+font-weight: bold;
+font-size: 3em;
+text-align: center; }
+} }

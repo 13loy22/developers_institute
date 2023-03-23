@@ -1,0 +1,19 @@
+/*Selector {
+	Property: value;
+*/
+
+.one { text-transform: uppercase; font-weight: bold; }
+
+#first {color: white; background-color: pink;}
+
+#retro {color:black; background-color: #738CA6; padding: 40px; margin-top: 50px;}
+
+.france { display: inline-block; border:solid black;
+background-color: red;
+padding: 200px; margin-top: 0px }
+
+#red { border: blue; background-color: blue }
+
+#white {border: white; background-color: white;}
+
+#blue { border: red; background-color: red; }

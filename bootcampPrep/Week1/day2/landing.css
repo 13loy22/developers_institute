@@ -1,0 +1,14 @@
+/* Selector { Property: value; }
+*/
+
+body { background-image: url(sea.jpg);background-repeat: no-repeat; background-size: cover; }
+
+ p {display: inline-block; color: white;}
+
+.form {position: relative right;}
+
+
+
+
+
+

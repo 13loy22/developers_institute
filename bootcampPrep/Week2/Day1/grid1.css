@@ -1,0 +1,76 @@
+/* Selector { Property: value; }
+*/
+
+
+.container { display: grid;
+grid-template-columns: 1fr 3fr;
+grid-template-rows: (40px 100px 40px 1000px 40px 100px 700px)
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+
+margin: 3px;
+}
+
+
+.one { padding: 7px;
+width: 60px;
+height: 24px;
+background: red;
+margin-top: 5px;
+background-color: red; color: red; border:1px solid black;
+}
+
+.three { padding: 7px;
+width: 20%;
+height: 24px;
+background: red;
+margin-top: 5px;
+background-color: red;
+color: black; border:1px solid black;
+}
+
+.five{ padding: 7px;
+width: 20%;
+height: 24px;
+background: red;
+margin-top: 5px;
+background-color: red;
+color: lightblue; border:1px solid black;
+}
+
+.two { padding: 7px;  
+
+height: 24px;
+background: red;
+margin-top: 5px;
+background-color: lightblue;
+color:black; border:1px solid black;
+}
+
+.four { padding: 7px;
+width: 100;
+height: 24px;
+background: blue;
+margin-top: 5px;
+background-color: lightblue;
+color: lightblue; border:1px solid black;
+}
+
+.six{ padding: 7px;
+width: 100;
+height: 24px;
+background: blue;
+margin-top: 5px;
+background-color: lightblue;
+color: lightblue; border:1px solid black;
+}
+
+.seven { padding: 7px;
+width: 100%;
+height: 24px;
+background: yellow;
+margin-top: 5px;
+background-color: yellow;
+color: yellow; border:1px solid black;
+}
+

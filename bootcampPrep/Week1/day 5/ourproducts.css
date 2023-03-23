@@ -1,0 +1,40 @@
+/*Selector {
+	Property: value;
+
+}*/	
+
+h1 {  font-family: 'Caveat:wght@600', cursive; text-align: center; border-bottom: 2px solid pink; box-shadow: 4px 4px #888888; }
+
+img:hover {transform: scale(1.1);
+animation: backwards;}
+
+ .buy { position: relative;
+  float: left;
+ display: inline-table;
+ width: 33%;
+ background-color: lightpink;
+ padding-top: 15px;
+ padding-bottom: 15px;
+ margin-left: 3px;
+margin-bottom: 5px;
+ }
+
+p { text-align: center; }
+
+ button { margin-left: 167px;}
+ 
+
+ .sale { font-weight: bold }
+
+ .discount{ text-decoration: line-through;
+ position: absolute;
+ right: 0;
+ border: solid black ;border-radius: 50% ;
+ }
+
+ .new { position: absolute;
+ left: 0;border: solid black;  border-radius: 50% ;}
+ 
+ .original {text-decoration:line-through;}
+
+

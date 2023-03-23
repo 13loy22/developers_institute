@@ -1,0 +1,29 @@
+/*Selector {
+	Property: value;
+
+}*/	
+
+nav{ font-family: 'Caveat:wght@600', cursive; text-align: center;}
+
+body { background-image: url(cover.jpg); background-size: cover; background-repeat: no-repeat;}
+
+.logo {height: 50px;
+float: left; position: relative;} 
+
+
+nav a { display: inline-block;
+float: right;
+color: green;
+font-size: 20px; padding: 5px; background-color: ;}
+
+footer  {position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   padding: 5px;
+   background-color: pink;
+   color: black;
+   text-align: center;	} 
+
+
+

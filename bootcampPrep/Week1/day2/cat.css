@@ -1,0 +1,13 @@
+/*Selector {
+	Property: value;
+
+}*/	
+
+.red {border-style: solid; border-color: red; color:red; border-width: 2px; text-align: center;}
+
+table, th, td { border: 1px solid black ; }
+
+.content {padding: 50px;}
+.more {padding: 50px;}
+
+

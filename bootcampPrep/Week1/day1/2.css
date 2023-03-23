@@ -1,0 +1,8 @@
+/*Selector {
+	Property: value;
+*/
+
+p { border-style: solid; border color: green; border-width: 5px; background-color: lightgreen; 
+	padding: 200px; margin-top: 60px; 
+	margin-left: 10px; margin right: 100px, 
+	margin bottom: 100px; font-size: 40px }

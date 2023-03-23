@@ -1,0 +1,26 @@
+/*Selector {
+	Property: value;
+
+}*/	
+
+.logo {height: 30px; float: left}
+
+li { display: inline-block; 
+float: right;
+color: black;
+font-size: 20px }
+
+
+
+.parentFlex {
+  display: flex;
+}
+
+.childflex {
+  width: 30vw;
+}
+
+.secondChildflex {
+  width: 70vw;
+  padding: 1rem;
+}

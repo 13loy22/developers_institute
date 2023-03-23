@@ -1,0 +1,34 @@
+/* Selector { Property: value; }
+*/
+
+body { background-image: url(mapp.jpg) }
+
+h1 { text-align: center; }
+
+.letters {display: grid;
+grid-template-columns: auto auto auto; justify-content: center; column-gap: 30px;}
+
+.one {font-size: 40px; color:#162955 }
+
+.two {font-size: 40px; color: #162955 
+;}
+
+.three {font-size: 40px; color: # ;}
+
+.pcolor {font-size: 10px; text-align: center; color: grey;}
+
+.container2 {display: grid; grid-template-columns: auto auto auto; column-gap: 20px; padding: 40px; margin-bottom: 0px;
+}
+
+
+ .one2 {  border: 1px solid white; background-color: white; text-align: center; 
+ 	font-size: 10px;  padding: 30px; margin-bottom: 5px;}
+ .two2 { border: 1px solid white; background-color: white; color: grey; text-align: center; font-size: 10px;  padding: 30px; margin-bottom: 2px;}
+ .three3 { border: 1px solid white; background-color: white; color: grey; text-align: center; font-size: 10px;  padding: 30px }
+
+.p1 { border: 1px solid lightpink; background-color:lightpink; text-align: center; line-height: 20px; margin-left: 0px;}
+.p2 {border: 1px solid purple; background-color:purple; text-align: center;}
+.p3 {border: 1px solid lightblue; background-color: lightblue; text-align: center;}
+ 
+
+ .face { position: relative; height: 25px; }
